@@ -6,6 +6,9 @@ STEP 1 :-
 Download the .exe file from Releases
 
 STEP 2 :-
+
+
+
 ![image alt](https://github.com/user-attachments/assets/abf0a25e-d2df-453d-9eb4-c927d9548e28)
 
 Open the .exe file 
